@@ -1,0 +1,13 @@
+.list a{
+    text-decoration: none;
+}
+
+
+
+.isLoading .loding{
+    display: block;
+}
+
+.loding{
+    display: none;
+}
